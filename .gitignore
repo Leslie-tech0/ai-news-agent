@@ -1,0 +1,12 @@
+# API密钥，绝对不能上传
+.env
+
+# 生成的输出文件（按需决定，如果你想展示报告可以去掉这行）
+output/cache/
+
+# Node依赖
+node_modules/
+
+# 系统文件
+.DS_Store
+Thumbs.db

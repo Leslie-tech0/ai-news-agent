@@ -1,0 +1,5 @@
+{
+  "enabledPlugins": {
+    "scheduler@claude-scheduler": true
+  }
+}
